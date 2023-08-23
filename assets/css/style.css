@@ -1,0 +1,99 @@
+body { 
+    font-family: 'Raleway', sans-serif;
+    background-color: #000000;
+}
+
+header{
+    width: 100%;
+    height: 73px;
+    background-color: #000000;
+    text-align: center;
+    color:white;
+    padding: 2em;
+    font-size:20px;
+}
+
+.iguana{
+    width:1280px;
+    height: 727px;
+    padding:6px;
+    opacity: 1;
+    top:73px;
+}
+
+.parrafo{
+    padding:10px;
+    display:flex;
+    justify-content:center;
+    top:800px;
+    width: 1160px;
+    height: 348px;
+    opacity: 1;
+}
+
+.textoimagen{
+    padding:15px;
+    margin:5px;
+    width: 40%;
+    
+}
+
+.imagentexto{
+    padding:10px;
+    width:30%;
+    margin:5px;
+}
+
+
+p{
+    color:white;
+}
+
+h2{
+    color:white;
+}
+
+.iconos{
+    display:flex;
+    justify-content: centers;
+    padding: 50px;
+    background-color: #1E1A13;
+    gap:30px;
+    width: 1180px;
+    opacity: 0.98;
+}
+
+
+.fontawesone{
+    display:flex;
+    justify-content:space-around;
+    background-color: #1E1A13;
+    font-size: 30px;
+    text-align: center;
+    border:0px;
+}
+
+.galeria{
+    display:flex;
+    justify-content: space-evenly;
+    padding:30px;
+    top:1488px;
+    opacity:0.96;
+}
+
+.iguana2{    
+    padding:25px;
+}
+
+footer{
+    border: 1px;
+    margin:0px;
+    width: 100%;
+    height: 30px;
+    padding: 60px;
+    background-color: #1E1A13;
+    color:white;
+    text-align: center;
+    font-size:20px;
+    opacity:0.94;
+}
